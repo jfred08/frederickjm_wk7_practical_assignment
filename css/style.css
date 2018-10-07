@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Average|Quantico');
+
+body {
+  font-family: "Average", Georgia, serif;
+}
+
+h1 {
+  font-family: "Quantico", Arial, sans-serif;
+}
+
+h3 {
+  color: #036;
+  font-family: "Quantico", Arial, sans-serif;
+}
+
+.hero-top, .page-footer {
+  background-size: cover;
+  background-color: #036;
+}
+
+.ui-widget {
+      font-family: inherit;
+}
